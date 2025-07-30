@@ -1,0 +1,15 @@
+<svg width="2000" height="2000" viewBox="0 0 2000 2000" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_45_350)">
+<path d="M1000 2000C961.883 1748.41 844.253 1515.61 664.32 1335.68C484.386 1155.75 251.593 1038.12 0 1000C251.593 961.883 484.386 844.253 664.32 664.32C844.253 484.386 961.883 251.593 1000 0C1038.13 251.588 1155.76 484.374 1335.69 664.306C1515.63 844.237 1748.41 961.871 2000 1000C1748.41 1038.13 1515.63 1155.76 1335.69 1335.69C1155.76 1515.63 1038.13 1748.41 1000 2000Z" fill="url(#paint0_linear_45_350)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_45_350" x1="370" y1="1800" x2="1445" y2="362.5" gradientUnits="userSpaceOnUse">
+<stop stop-color="#00FFE3"/>
+<stop offset="0.52021" stop-color="#06FFE7"/>
+<stop offset="1" stop-color="#1C6FFF"/>
+</linearGradient>
+<clipPath id="clip0_45_350">
+<rect width="2000" height="2000" fill="white"/>
+</clipPath>
+</defs>
+</svg>

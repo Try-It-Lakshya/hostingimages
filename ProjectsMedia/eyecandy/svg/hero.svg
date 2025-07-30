@@ -1,0 +1,16 @@
+<svg width="468" height="564" viewBox="0 0 468 564" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Hero">
+<g id="firstarm">
+<path id="triangle1" d="M228 114L57 212.727L57 15.2731L228 114Z" fill="#FF77B2"/>
+<path id="triangle3" d="M228 338L57 436.727L57 239.273L228 338Z" fill="#FF77B2"/>
+<path id="triangle2" d="M57 226L228 127.273L228 324.727L57 226Z" fill="#FF77B2"/>
+<path id="triangle4" d="M57 450L228 351.273L228 548.727L57 450Z" fill="#FF77B2"/>
+</g>
+<g id="secondarm">
+<path id="triangle6" d="M411 114L240 212.727L240 15.2731L411 114Z" fill="#FF77B2"/>
+<path id="triangle7" d="M411 338L240 436.727L240 239.273L411 338Z" fill="#FF77B2"/>
+<path id="triangle5" d="M240 226L411 127.273L411 324.727L240 226Z" fill="#FF77B2"/>
+<path id="triangle8" d="M240 450L411 351.273L411 548.727L240 450Z" fill="#FF77B2"/>
+</g>
+</g>
+</svg>
